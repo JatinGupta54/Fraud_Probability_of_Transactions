@@ -6,9 +6,9 @@ Fraud remains one of the most critical challenges in the finance sector, resulti
 Detecting fraud is inherently suited for machine learning (ML) due to its ability to analyze extensive transactional datasets, identify unusual activities, and predict fraud more efficiently than traditional rule-based systems. This project leverages ML models to assess the fraud probability for each potential customer and transaction, offering key insights and alerts to financial institutions.
 
 ## Project Goals
-Develop ML Models: Create and train machine learning models to predict the likelihood of fraud in transactions.
-Data Integration: Collect and integrate data from various sources to improve the accuracy and reliability of fraud detection.
-Performance Metrics: Evaluate model performance based on precision, recall, F1 score, and other relevant metrics.
+#### Develop ML Models: Create and train machine learning models to predict the likelihood of fraud in transactions.
+#### Data Integration: Collect and integrate data from various sources to improve the accuracy and reliability of fraud detection.
+#### Performance Metrics: Evaluate model performance based on precision, recall, F1 score, and other relevant metrics.
 
 ## Features
 Fraud Probability Scoring: Assess the probability of fraud for each transaction and customer.
